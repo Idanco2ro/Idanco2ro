@@ -2,7 +2,10 @@
 
 ---
 
-I am a automation engineer focusing on Python, a little Java, Matlab/Simulink,PLC.
+I am an Automation & AI/ML Engineer passionate about building intelligent systems that connect control, data, and software.  
+Skilled in Python, TensorFlow, and MATLAB/Simulink, I enjoy turning complex problems into practical solutions.  
+
+🚀 Always learning, always creating.
 
 ---
 
