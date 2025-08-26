@@ -28,7 +28,7 @@ I am a automation engineer focusing on Python, a little Java, Matlab/Simulink,PL
 
 ### CV
 
- - :paperclip: [My CV](https://github.com/Idanco2ro/Idanco2ro/blob/main/Ivanov_Daniel_C.V._EN.pdf)
+ - :paperclip: [My CV](https://github.com/Idanco2ro/Idanco2ro/blob/main/CV_Ivanov_Daniel.pdf)
 
 ---
 
